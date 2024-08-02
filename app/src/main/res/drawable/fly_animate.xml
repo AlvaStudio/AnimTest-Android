@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/selected"
+    android:oneshot="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/avia0000" android:duration="50" />
+    <item android:drawable="@drawable/avia0001" android:duration="50" />
+    <item android:drawable="@drawable/avia0002" android:duration="50" />
+    <item android:drawable="@drawable/avia0003" android:duration="50" />
+    <item android:drawable="@drawable/avia0004" android:duration="50" />
+    <item android:drawable="@drawable/avia0005" android:duration="50" />
+    <item android:drawable="@drawable/avia0006" android:duration="50" />
+    <item android:drawable="@drawable/avia0007" android:duration="50" />
+    <item android:drawable="@drawable/avia0008" android:duration="50" />
+    <item android:drawable="@drawable/avia0009" android:duration="50" />
+    <item android:drawable="@drawable/avia0010" android:duration="50" />
+    <item android:drawable="@drawable/avia0011" android:duration="50" />
+    <item android:drawable="@drawable/avia0012" android:duration="50" />
+    <item android:drawable="@drawable/avia0013" android:duration="50" />
+    <item android:drawable="@drawable/avia0014" android:duration="50" />
+    <item android:drawable="@drawable/avia0015" android:duration="50" />
+    <item android:drawable="@drawable/avia0016" android:duration="50" />
+    <item android:drawable="@drawable/avia0017" android:duration="50" />
+    <item android:drawable="@drawable/avia0018" android:duration="50" />
+    <item android:drawable="@drawable/avia0019" android:duration="50" />
+    <item android:drawable="@drawable/avia0020" android:duration="50" />
+    <item android:drawable="@drawable/avia0021" android:duration="50" />
+    <item android:drawable="@drawable/avia0022" android:duration="50" />
+    <item android:drawable="@drawable/avia0023" android:duration="50" />
+    <item android:drawable="@drawable/avia0024" android:duration="50" />
+    <item android:drawable="@drawable/avia0025" android:duration="50" />
+    <item android:drawable="@drawable/avia0026" android:duration="50" />
+    <item android:drawable="@drawable/avia0027" android:duration="50" />
+    <item android:drawable="@drawable/avia0028" android:duration="50" />
+    <item android:drawable="@drawable/avia0029" android:duration="50" />
+    <item android:drawable="@drawable/avia0030" android:duration="50" />
+    <item android:drawable="@drawable/avia0031" android:duration="50" />
+    <item android:drawable="@drawable/avia0032" android:duration="50" />
+    <item android:drawable="@drawable/avia0033" android:duration="50" />
+    <item android:drawable="@drawable/avia0034" android:duration="50" />
+    <item android:drawable="@drawable/avia0035" android:duration="50" />
+    <item android:drawable="@drawable/avia0036" android:duration="50" />
+    <item android:drawable="@drawable/avia0037" android:duration="50" />
+    <item android:drawable="@drawable/avia0038" android:duration="50" />
+    <item android:drawable="@drawable/avia0039" android:duration="50" />
+    <item android:drawable="@drawable/avia0040" android:duration="50" />
+
+</animation-list>
